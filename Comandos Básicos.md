@@ -16,7 +16,7 @@ sudo passwd
 ````
 ### Instalar atualizações
 ````sh
-sudo apt-get upgrade
+sudo apt-get update
 ````
 
 ### Configuração inicial do servidor com Ubuntu 18.04
