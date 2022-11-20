@@ -26,9 +26,11 @@ sudo apt-get update
 
 ### Como configurar os hosts virtuais do Apache no Ubuntu 18.04 [Guia de início rápido]
 
-<a href="https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-18-04-quickstart-pt" target="_blank">Clique aqui</a>
+#### Instalacao do Apache2
 
-### Instalacao do Apache2
 ````sh
 sudo apt-get install apache2
 ````
+<a href="https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-18-04-quickstart-pt" target="_blank">Clique aqui</a>
+
+
