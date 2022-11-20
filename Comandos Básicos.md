@@ -14,9 +14,10 @@ su - #Digite a senha root
 ````sh
 sudo passwd
 ````
-
-
-
+### Instalar atualizações
+````sh
+sudo apt-get upgrade
+````
 
 ### Configuração inicial do servidor com Ubuntu 18.04
 
