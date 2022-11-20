@@ -1,4 +1,8 @@
-### Para verificar IP da maquina
+### Para verificar o IP da maquina
+````sh
+sudo ifconfig
+````
+### Para verificar localhost
 
 ````sh
 cat /etc/resolv.conf
