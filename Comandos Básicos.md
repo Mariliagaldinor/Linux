@@ -55,5 +55,10 @@ touch "nomedoarquivo.extensao"
 ## Criar um arquivo no windows
 ````sh
 ni "nomedoarquivo.extensao"
+
 ````
+````sh
+Exemplo: ni index.html
+````
+
 
