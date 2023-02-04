@@ -47,7 +47,13 @@ mkdir "nome da pasta"
 rmdir "nome da pasta"
 ````
 
-## Criar um arquivo
+## Criar um arquivo no linux
 ````sh
-touch "nomedoarquivo"
+touch "nomedoarquivo.extensao"
 ````
+
+## Criar um arquivo no windows
+````sh
+ni "nomedoarquivo.extensao"
+````
+
