@@ -37,4 +37,12 @@ sudo apt-get install apache2
 
 <a href="https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-18-04-quickstart-pt" target="_blank">Clique aqui</a>
 
+## Criar pasta
 
+````sh
+mkdir "nome da pasta"
+````
+## Deletar pasta
+````sh
+rmdir "nome da pasta"
+````
