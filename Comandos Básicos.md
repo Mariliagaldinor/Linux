@@ -46,3 +46,8 @@ mkdir "nome da pasta"
 ````sh
 rmdir "nome da pasta"
 ````
+
+## Criar um arquivo
+````sh
+touch "nomedoarquivo"
+````
