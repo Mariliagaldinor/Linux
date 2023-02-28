@@ -60,5 +60,8 @@ ni "nomedoarquivo.extensao"
 ````sh
 Exemplo: ni index.html
 ````
+````sh
+ls: Lista todos os arquivos do diretório.
+````
 
 
