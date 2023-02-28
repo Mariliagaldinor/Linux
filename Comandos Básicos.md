@@ -1,3 +1,7 @@
+### Abrir terminal
+````sh
+ctrl + alt + t
+````
 ### Para verificar o IP da maquina
 ````sh
 sudo ifconfig
