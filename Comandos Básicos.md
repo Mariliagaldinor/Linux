@@ -1,3 +1,11 @@
+## Sintaxe dos Comandos Linux.
+
+Maneira que escrevemos os comandos.
+
+# 
+
+Comando ESPAÇO opções ESPAÇO argumentos
+
 ### Abrir terminal
 ````sh
 ctrl + alt + t
@@ -69,5 +77,9 @@ Exemplo: ni index.html
 ````sh
 ls
 ````
+
+### Tipos de SHELL
+
+bash, sh, ash, zsh, csh, ksh
 
 
